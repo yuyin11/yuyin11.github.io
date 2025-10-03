@@ -1,3 +1,62 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://yuyin11.github.io/'
+languageCode = 'zh-cn'
+title = "Ian's Blog"
+theme = 'typo'
+
+defaultContentLanguage = 'zh'
+enableInlineShortcodes = true
+hasCJKLanguage = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+defaultContentLanguageInSubdir = false
+
+[taxonomies]
+tag = 'tags'
+category = 'categories'
+
+[params]
+description = "Ian's Blog"
+theme = 'auto'
+colorPalette = 'default'
+
+homeIntroTitle = 'Hi!👋'
+homeIntroContent = """
+这是我的航行日志
+\n
+记录抵达，也记录迷途🚢
+\n
+"""
+
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "categories"
+url = "/categories"
+
+[[params.menu]]
+name = "tags"
+url = "/tags"
+
+[[params.menu]]
+name = "search"
+url = "/search"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[markup]
+[markup.highlight]
+style = 'algol'
