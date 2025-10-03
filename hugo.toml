@@ -15,7 +15,6 @@ defaultContentLanguageInSubdir = false
 
 [taxonomies]
 tag = 'tags'
-category = 'categories'
 
 [params]
 description = "Ian's Blog"
@@ -40,10 +39,6 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts"
-
-[[params.menu]]
-name = "categories"
-url = "/categories"
 
 [[params.menu]]
 name = "tags"
