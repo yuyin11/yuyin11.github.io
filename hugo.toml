@@ -18,7 +18,7 @@ tag = 'tags'
 
 [params]
 description = "Ian's Blog"
-theme = 'auto'
+theme = 'dark'
 colorPalette = 'default'
 
 homeIntroTitle = 'Hi!👋'
