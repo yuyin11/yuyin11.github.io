@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-03T16:03:02+08:00</lastmod>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-10-03T16:03:02+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nvim/</loc>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-03T16:03:02+08:00</lastmod>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-03T16:03:02+08:00</lastmod>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/test/</loc>
-    <lastmod>2025-10-03T16:03:02+08:00</lastmod>
+    <loc>http://localhost:1313/posts/nvim-cpp-nvimdap/</loc>
+    <lastmod>2025-10-23T10:17:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>
