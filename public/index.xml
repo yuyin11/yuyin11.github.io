@@ -6,8 +6,15 @@
     <description>Recent content in Home on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Oct 2025 10:17:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 16:34:59 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 mpd &#43; ncmpcpp 实现在终端播放音乐</title>
+      <link>http://localhost:1313/posts/mpd-ncmpcpp/</link>
+      <pubDate>Sat, 25 Oct 2025 16:34:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mpd-ncmpcpp/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;前言&#34;&gt;&#xA;  前言&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%89%8d%e8%a8%80&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;可能你也觉得在终端里使用那些工具是那么舒服，如何将所有工具都搬到终端里一直是我考虑的问题，&#xA;这里我将介绍我是如何在终端里播放音乐的。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;本文涉及的工具：&lt;/p&gt;</description>
+    </item>
     <item>
       <title>如何在nvim里配置C&#43;&#43;的调试器？</title>
       <link>http://localhost:1313/posts/nvim-cpp-nvimdap/</link>

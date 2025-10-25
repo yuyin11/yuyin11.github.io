@@ -32,6 +32,8 @@ homeIntroContent = """
 homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
+paginationSize = 100
+
 [[params.menu]]
 name = "home"
 url = "/"

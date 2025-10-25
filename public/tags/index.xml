@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 23 Oct 2025 10:17:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 16:34:59 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mpd</title>
+      <link>http://localhost:1313/tags/mpd/</link>
+      <pubDate>Sat, 25 Oct 2025 16:34:59 +0800</pubDate>
+      <guid>http://localhost:1313/tags/mpd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ncmpcpp</title>
+      <link>http://localhost:1313/tags/ncmpcpp/</link>
+      <pubDate>Sat, 25 Oct 2025 16:34:59 +0800</pubDate>
+      <guid>http://localhost:1313/tags/ncmpcpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工具</title>
+      <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sat, 25 Oct 2025 16:34:59 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
     <item>
       <title>C&#43;&#43;</title>
       <link>http://localhost:1313/tags/c&#43;&#43;/</link>
