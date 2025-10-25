@@ -23,7 +23,8 @@ tags = ['mpd', 'ncmpcpp', '工具']
 yay -S mpd ncmpcpp
 ```
 ### 配置
-首先得创建mpd与ncmpcpp的配置文件，分别位于~/.config/mpd/mpd.conf, ~/.config/ncmpcpp/config。
+首先得创建mpd与ncmpcpp的配置文件，分别位于~/.config/mpd/mpd.conf, ~/.config/ncmpcpp/config。  
+在配置之前先阅读[mpd](https://raw.githubusercontent.com/MusicPlayerDaemon/MPD/master/doc/mpdconf.example)与[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp/blob/0.9.x/doc/config)的官方文档，下面是我的个人配置。
 - mpd
 ```conf
 # ~/.config/mpd/mpd.conf
@@ -184,7 +185,7 @@ mpd作为服务器/守护进程，ncmpcpp作为客户端/控制界面
 4. ncmpcpp读取配置文件与mpd连接。
 
 ## 使用
-先打开mpd，再打开ncmpcpp
+先打开mpd，再打开ncmpcpp。
 
 ## 附录
 参考：
