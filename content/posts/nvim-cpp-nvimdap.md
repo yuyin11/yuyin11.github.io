@@ -76,7 +76,7 @@ dap.configurations.cpp = {
 
 ## 使用
 ```sh
-g++ -g -o a.cpp a
+g++ -g -o a a.cpp
 # 首先生成可调式的可执行文件
 ```
 然后再通过设置好的快捷键进行调试
