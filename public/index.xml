@@ -6,8 +6,15 @@
     <description>Recent content in Home on Ian&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Nov 2025 20:37:43 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 10:29:29 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>解决条件竞争的三种方法</title>
+      <link>http://localhost:1313/posts/solving-race-conditions-in-concurrent-programming/</link>
+      <pubDate>Fri, 05 Dec 2025 10:29:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/solving-race-conditions-in-concurrent-programming/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;前言&#34;&gt;&#xA;  前言&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%89%8d%e8%a8%80&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;最近在学习C++并发编程&lt;br&gt;&#xA;为了保护共享数据，我们需要加锁；但为了保持高性能和避免死锁，我们又需要尽量减少持锁的时间&lt;br&gt;&#xA;下面将介绍三种方法，如何解决条件竞争&lt;/p&gt;</description>
+    </item>
     <item>
       <title>二分查找算法及其变体总结</title>
       <link>http://localhost:1313/posts/variations_of_the_binary_search/</link>

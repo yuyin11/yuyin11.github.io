@@ -64,3 +64,6 @@ home = ["HTML", "RSS", "JSON"]
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
+
+[markup.goldmark.renderer]
+unsafe = true
