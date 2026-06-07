@@ -1,5 +1,5 @@
 baseURL = 'https://yuyin11.github.io/'
-languageCode = 'zh-cn'
+locale = 'zh-cn'
 title = "Ian's Blog"
 theme = 'typo'
 
@@ -7,7 +7,7 @@ defaultContentLanguage = 'zh'
 enableInlineShortcodes = true
 hasCJKLanguage = true
 enableRobotsTXT = true
-buildDrafts = true
+buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableEmoji = true
